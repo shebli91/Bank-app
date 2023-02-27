@@ -66,13 +66,6 @@ const account3 = {
   locale: 'en-US',
 };
 
-const account4 = {
-  owner: 'Sarah rmith',
-  movements: [430, 1000, 700, 50, 90],
-  interestRate: 1,
-  pin: 4444,
-};
-
 const accounts = [account1, account2, account3];
 
 // Elements
